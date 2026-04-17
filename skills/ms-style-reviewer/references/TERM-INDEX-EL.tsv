@@ -1,0 +1,227 @@
+canonical	match_variants	file	type	thumbnail
+-like	,-like,	L.md	format	Don't hyphenate unless root word ends in double l's or has three or more syllables.
+e-book	,e-book,ebook,	E.md	format	Always hyphenate. Don't use ebook or eBook.
+e-commerce	,e-commerce,ecommerce,	E.md	format	Always hyphenate. Don't use ecommerce or eCommerce.
+e-discovery	,e-discovery,ediscovery,	E.md	format	Always hyphenate. Don't use ediscovery or eDiscovery.
+e-form, form	,e-form,form,	E.md	subst	Use form, not e-form.
+e-learning	,e-learning,elearning,	E.md	format	Always hyphenate. Don't use elearning or eLearning.
+e-sports	,e-sports,esports,	E.md	format	Always hyphenate. Don't use esports or eSports.
+e-words	,e-words,	E.md	clarify	Don't create new e-words. Use only established ones like e-book and e-commerce. Email is an exception.
+e.g.	,e.g.,eg,	E.md	prohibit	Don't use. Use for example, such as, or like instead.
+earlier	,earlier,	E.md	clarify	Use earlier, preceding, or previous instead of above to refer to content that appears before.
+edutainment	,edutainment,	E.md	prohibit	Don't use.
+either/or	,either/or,	E.md	prohibit	Don't use. Use a complete phrase instead.
+elastic service capacity	,elastic service capacity,	E.md	clarify	See Cloud-computing term collection.
+ellipsis button	,ellipsis button,	E.md	clarify	Name varies based on result. On first mention, include graphic or (...). Don't capitalize ellipsis.
+email	,email,e-mail,	E.md	format	One word, no hyphen, lowercase m. OK as a verb. Use email message for individual messages.
+embed	,embed,imbed,	E.md	subst	Use embed, not imbed.
+emoji, emoticons	,emoji,emoticons,emoticon,	E.md	clarify	Use emoji instead of emoticons. Limit to three per message. Don't use in place of words.
+enable, enables	,enable,enables,	E.md	subst	Don't use enable/disable. Use turn on, turn off, or specific alternatives like show/hide, add/remove.
+end	,end,	E.md	clarify	Use end for stopping communications and network connections. Use close for apps and programs.
+End-User License Agreement (EULA)	,end-user license agreement,eula,	E.md	subst	Don't use. Use Microsoft Software License Terms instead.
+endline	,endline,end line,	E.md	format	One word.
+endpoint	,endpoint,end point,	E.md	format	One word.
+ensure, insure, assure	,ensure,insure,assure,	E.md	clarify	Use ensure for make sure, insure for insurance, assure for state positively.
+enter	,enter,	E.md	clarify	See Describing interactions with UI.
+enterprise	,enterprise,	E.md	conditional	OK for IT pro or developer audience. Don't use for a general audience.
+entry field	,entry field,	E.md	subst	Don't use for text-entry fields. Refer to box by its label. OK in a database context.
+environment variable	,environment variable,	E.md	clarify	Contains configuration information that can be referenced by anything in the environment.
+erase	,erase,	E.md	subst	Don't use as a synonym for delete unless the app requires it.
+et al.	,et al.,	E.md	subst	Don't use except in citations with three or more authors. Use and others instead.
+etc.	,etc.,	E.md	prohibit	Don't use. Be specific, or use such as or like followed by examples.
+euro	,euro,euros,	E.md	format	Lowercase. Place euro symbol before amount in US content.
+executable, .exe	,executable,.exe,	E.md	clarify	Use as adjectives, not nouns. Use an before .exe. Use program file for general audiences.
+execute	,execute,	E.md	subst	Don't use except to follow UI. Use run instead.
+exit	,exit,	E.md	prohibit	Don't use to describe closing an app or program.
+expand, collapse	,expand,collapse,	E.md	clarify	Use to describe displaying more or fewer subentries in a folder or outline.
+expose	,expose,	E.md	conditional	Don't use in UI content. OK in object-oriented programming to describe making services available.
+extend	,extend,grow,	E.md	subst	Use extend instead of grow to refer to extending a selection.
+extension, file name extension	,extension,file name extension,file extension,	E.md	subst	Use extension or file name extension, not file extension.
+fail	,fail,	F.md	conditional	For general audiences, use only for hardware. Use stop responding for programs. OK for technical audiences.
+fail over, fail back, failover, failback	,fail over,fail back,failover,failback,	F.md	format	Two words as a verb, one word as adjective or noun. Don't use for general audiences.
+FALSE	,false,	F.md	format	All uppercase for return values, or follow the capitalization of the specific programming language.
+family	,family,line,	F.md	subst	Use family, not line, to refer to a set of related Microsoft products or services.
+Far East	,far east,	F.md	subst	Don't use. Use East Asia or Asia instead.
+far-left, far-right	,far-left,far-right,	F.md	subst	Don't use. Use leftmost or rightmost instead.
+favorite	,favorite,	F.md	clarify	Use for webpages a customer may revisit. Lowercase generic use, capitalize menu name. Avoid as a verb.
+fax	,fax,	F.md	clarify	Lowercase. OK as adjective, noun, or verb.
+field	,field,	F.md	subst	Don't use for text-entry boxes. Use box instead. OK in database and other technical contexts.
+file	,file,	F.md	clarify	Use a more specific term like document, workbook, or presentation when possible.
+file attributes	,file attributes,	F.md	format	Use lowercase for file attributes such as hidden, system, read-only, and archive.
+File Explorer	,file explorer,windows explorer,explorer,	F.md	subst	Use File Explorer, not Windows Explorer. No preceding article. Don't shorten to Explorer.
+file name	,file name,filename,	F.md	format	Two words as adjective or noun. Don't hyphenate. Usually one word for programming terms.
+file name extension, extension	,file name extension,extension,file extension,	F.md	subst	Use file name extension or extension, not file extension.
+finalize	,finalize,	F.md	subst	Don't use. Use finish or complete instead.
+find and replace	,find and replace,find-and-replace,	F.md	clarify	Use find and replace as separate verbs, not as a noun or adjective. Don't use global for the action.
+first line, first-line	,first line,first-line,	F.md	format	Two words as a noun. Hyphenate as an adjective.
+fitness band	,fitness band,	F.md	clarify	See Computer and device term collection.
+fixed disk	,fixed disk,	F.md	clarify	See Computer and device term collection.
+flick	,flick,	F.md	clarify	See Touch and pen interaction term collection.
+flush, flush to	,flush,flush to,flush left,flush right,	F.md	subst	For general audiences, use even, left-aligned, or right-aligned. OK as a verb for technical audiences.
+flyout	,flyout,fly out,	F.md	conditional	Don't use for general audiences. OK as adjective for technical audiences. Avoid as a noun or verb.
+folder, folder icon	,folder,folder icon,directory icon,	F.md	clarify	Use folder, not directory, in Windows content. Use directory only for developers. Don't use directory icon.
+following	,following,below,	F.md	subst	Use the following or these plus a noun, not below, when introducing lists, tables, or art.
+font, font style	,font,font style,typeface,type style,type size,	F.md	subst	Use font, not typeface. Use font style, not type style. Use bold and italic, not bolded or italics.
+foo, foobar, fubar	,foo,foobar,fubar,	F.md	conditional	Don't use fubar. Don't use foo/foobar for general audiences. OK as placeholders for technical audiences.
+footer	,footer,running foot,bottom running head,	F.md	subst	Use footer, not bottom running head or running foot, for page layout.
+foreground program	,foreground program,foreground process,	F.md	subst	Use foreground program, not foreground process, for technical audiences.
+format, formatted, formatting	,format,formatted,formatting,	F.md	clarify	Use format for overall layout, formatting or formatted for specific character or paragraph formatting.
+fourth-generation language	,fourth-generation language,4gl,	F.md	format	Spell out on first mention. OK to abbreviate as 4GL on subsequent mentions.
+frameset	,frameset,	F.md	conditional	Use only for developers. Use frames for general discussions. Use frameset document for the HTML doc.
+freeze, frozen	,freeze,frozen,	F.md	prohibit	Don't use as a synonym for stop responding.
+friendly name	,friendly name,	F.md	subst	Don't use. Use display name instead.
+from vs. on	,from,on,	F.md	clarify	Use from for a starting point. Use on for selecting a command or option.
+front end, front-end	,front end,front-end,	F.md	conditional	Don't use as synonym for desktop interface for general audiences. OK for technical. Hyphenate as adjective.
+full screen, full-screen	,full screen,full-screen,	F.md	format	Two words as a noun. Hyphenate as an adjective before a noun.
+function	,function,api,	F.md	clarify	Don't use function to mean API. Don't use API to mean function.
+gallery	,gallery,	G.md	clarify	Don't use to mean marketplace or store. OK for a collection of pictures, templates, or other items.
+game pad	,game pad,gamepad,	G.md	format	Two words.
+garbage collection, garbage collector	,garbage collection,garbage collector,	G.md	clarify	OK for technical audiences for automatic recovery of heap memory or deletion of unused objects.
+General Data Protection Regulation (GDPR)	,general data protection regulation,gdpr,	G.md	format	Capitalize and spell out on first mention. Include the when used as a noun.
+general protection fault, GP fault	,general protection fault,gp fault,	G.md	format	Spell out on first mention. OK to abbreviate as GP fault on subsequent mentions.
+gigabit, Gbit	,gigabit,gbit,	G.md	clarify	See Bits and bytes term collection.
+gigabyte, GB, G, G byte, Gbyte	,gigabyte,gb,g byte,gbyte,	G.md	clarify	See Bits and bytes term collection. Don't use UK, GB, and England interchangeably.
+gigahertz, GHz	,gigahertz,ghz,	G.md	clarify	See Units of measure term collection.
+given	,given,	G.md	subst	Don't use to mean specified, particular, or fixed.
+global	,global,	G.md	clarify	OK to mean worldwide. OK for technical memory/variable usage. Don't use for find-and-replace actions.
+glyph	,glyph,	G.md	subst	Don't use for generic graphics on buttons or icons. Use symbol instead. OK in technical font discussions.
+go to	,go to,	G.md	clarify	See Describing interactions with UI.
+graphic, graphics, graphical	,graphic,graphics,graphical,	G.md	clarify	Use graphic as a noun for a visual. Use graphical as an adjective. Use graphic as adjective only for vivid.
+graphics adapter	,graphics adapter,	G.md	subst	Don't use. Use video card instead.
+gray, grayed out	,gray,grayed out,grayed,	G.md	subst	Don't use grayed out. Use not available or isn't available. Use appears dimmed for appearance.
+greater, better	,greater,better,	G.md	subst	Don't use greater or better to mean or later for software versions.
+greylist	,greylist,	G.md	clarify	Note spelling. Use only for the spam-reduction technique of rejecting mail from unknown senders.
+gridline	,gridline,grid line,	G.md	format	One word.
+group box	,group box,groupbox,	G.md	format	Two words. Avoid referring to it for general audiences. OK for technical audiences.
+group, newsgroup	,group,newsgroup,	G.md	subst	Use newsgroup, not group, for internet discussion groups.
+grow	,grow,	G.md	subst	Don't use as a verb meaning to increase size. Use a more specific verb like increase or extend.
+hack, hacker	,hack,hacker,	H.md	clarify	See Security term collection.
+half inch	,half inch,half-inch,half an inch,one-half inch,	H.md	format	Hyphenate as an adjective. Use 0.5 in. when space is limited.
+handheld, handheld device	,handheld,handheld device,	H.md	clarify	See Computer and device term collection.
+handle	,handle,	H.md	clarify	Use move handle or sizing handle for UI. Don't use size handle, grab handle, or little box.
+handshake	,handshake,hand shake,	H.md	format	One word. Briefly define the term on first mention for general audiences.
+hang	,hang,hangs,	H.md	subst	Don't use. Use stop responding instead. OK to mention hang for search engine optimization.
+hard copy	,hard copy,hardcopy,soft copy,	H.md	format	Two words. Use only as a noun. Don't use soft copy.
+hard drive	,hard drive,	H.md	clarify	See Computer and device term collection.
+hard-code, hard-coded, hard-coding	,hard-code,hard-coded,hard-coding,hardcode,hardcoded,	H.md	format	Always hyphenate. OK for technical audiences only.
+hard-of-hearing	,hard-of-hearing,	H.md	clarify	See Accessibility term collection.
+hardwired	,hardwired,hard-wired,	H.md	format	One word. Don't use for general audiences.
+HDMI (High-Definition Multimedia Interface)	,hdmi,high-definition multimedia interface,	H.md	format	Use HDMI abbreviation most of the time. Use an as the article.
+he/she	,he/she,	H.md	prohibit	Don't use.
+header	,header,running head,	H.md	clarify	Use for page layout, not as synonym for heading. OK as short form of file header in technical content.
+heading	,heading,head,	H.md	subst	Use heading, not head or header, for article or section headings.
+hearing-impaired	,hearing-impaired,	H.md	clarify	See Accessibility term collection.
+Help	,help,	H.md	format	Capitalize when referring to a product Help system. Don't use online Help unless describing the system.
+hexadecimal	,hexadecimal,hex,	H.md	format	Don't abbreviate as hex. Use h or 0x for number abbreviations. No space between number and h.
+hierarchical menu	,hierarchical menu,	H.md	subst	Don't use. Use submenu instead. OK for technical audiences explaining types of menus.
+high-level-language compiler	,high-level-language compiler,	H.md	format	Hyphenate as shown.
+high-quality	,high-quality,quality,	H.md	format	Don't use quality alone as an adjective. Always use high-quality.
+high-resolution	,high-resolution,hi-res,	H.md	format	Always hyphenate. Don't abbreviate as hi-res.
+higher	,higher,	H.md	subst	Don't use or higher to mean or later for software. OK for display resolution. Use faster for speed.
+hint	,hint,	H.md	subst	Don't use as a heading for a type of note. Use tip instead.
+hit	,hit,	H.md	subst	Don't use for pressing a key; use select. Use page view or page request, not hit, for page downloads.
+home directory	,home directory,	H.md	subst	Don't use. Use root directory for developers or top-level folder for others.
+home, home page	,home,home page,homepage,start page,	H.md	format	Capitalize Home only as a UI label. Two words for home page. Don't use start page.
+honeypot	,honeypot,	H.md	clarify	Don't use. In network decoy content, try to write around it or define on first mention.
+host name	,host name,hostname,	H.md	format	Two words unless referring to a programming element like HostName property.
+hosted service	,hosted service,	H.md	clarify	See Cloud-computing term collection.
+hosting provider	,hosting provider,	H.md	clarify	See Cloud-computing term collection.
+hot key	,hot key,hotkey,	H.md	clarify	See Keys and keyboard shortcuts term collection.
+hot link	,hot link,hotlink,	H.md	prohibit	Don't use for update connections or to refer to a link.
+hot spot, hotspot	,hot spot,hotspot,	H.md	clarify	Don't use for links. Two words for pointer pixel. One word for wireless internet access.
+hover over, hovering	,hover over,hovering,	H.md	clarify	See Mouse and mouse interaction term collection.
+how to, how-to	,how to,how-to,	H.md	format	Don't use how-to as a noun. Always hyphenate as an adjective. Never capitalize the t in to.
+HTML	,html,hypertext markup language,	H.md	format	Don't spell out unless necessary. If needed, use Hypertext Markup Language.
+HTTP, HTTPS	,http,https,hypertext transfer protocol,	H.md	format	All uppercase for the protocol. Omit http:// and https:// from URLs generally.
+hybrid cloud	,hybrid cloud,	H.md	clarify	See Cloud-computing term collection.
+hyperlink	,hyperlink,link,hot spot,hot link,	H.md	clarify	Use hyperlink or link. Don't use hot spot, hot link, or shortcut for links. Use go to, not click.
+i.e.	,i.e.,	I.md	subst	Use "that is" instead of "i.e."
+icon	,icon,	I.md	conditional	Don't use "icon" for dialog box options; OK in beginner content or when discussing the icon itself.
+iconize	,iconize,	I.md	subst	Use "shrink to an icon" or "minimize" instead of "iconize."
+if vs. whether vs. when	,if vs. whether vs. when,if,whether,when,whether or not,	I.md	clarify	Use "if" for conditions, "whether" for uncertainty, "when" for time or preparation; don't use "whether or not."
+illegal	,illegal,	I.md	subst	Don't use "illegal" to mean "invalid" or "not valid."
+image map	,image map,imagemap,	I.md	format	Two words. One word only when referring to a programming class like ImageMap.
+imbed	,imbed,	I.md	subst	Use "embed" instead of "imbed."
+impact	,impact,	I.md	clarify	Use "impact" only as a noun; as a verb, use "affect" instead.
+inactive, inactive state	,inactive,inactive state,	I.md	conditional	Don't use for general audiences; OK for technical audiences to mean not currently in use.
+inbound	,inbound,	I.md	conditional	Don't use for email delivery (use "incoming"); OK for marketing tactics.
+incoming, outgoing	,incoming,outgoing,inbound,outbound,	I.md	subst	Use "incoming" and "outgoing" for email, not "inbound" and "outbound."
+increment	,increment,	I.md	conditional	OK for developers to mean increase by one or a specified interval; OK in other content if meaning is clear.
+indent, outdent	,indent,outdent,indenting,outdenting,	I.md	clarify	Use "indent" for a single instance, "indentation" for the concept; don't use "outdent" or "outdenting."
+index, indexes, indices	,index,indexes,indices,	I.md	format	Use "indexes" as the plural; use "indices" only in mathematical expressions.
+info	,info,	I.md	clarify	OK to use "info" as abbreviation for "information" in informal content.
+infrastructure as a service (IaaS)	,infrastructure as a service,iaas,	I.md	clarify	See Cloud-computing term collection.
+initialize	,initialize,	I.md	conditional	Don't use to mean start a program or turn on a device; OK for preparing a disk or setting a variable.
+initiate	,initiate,	I.md	prohibit	Don't use to mean start a program or app.
+inline	,inline,in-line,in line,	I.md	format	One word, no hyphen.
+input	,input,	I.md	conditional	Don't use as a verb; use "enter" instead. Don't use as a noun for general audiences.
+input/output, I/O, input/output control	,input/output,i/o,input/output control,ioctl,	I.md	conditional	Avoid for general audiences; spell out on first mention then abbreviate as I/O. Technical audience doesn't need spell-out.
+insecure	,insecure,	I.md	prohibit	Don't use to mean "not secure."
+inside	,inside,inside of,	I.md	subst	Use "inside" instead of "inside of."
+install	,install,	I.md	clarify	Use "install" for adding apps/hardware/drivers; don't use as a noun (use "installation"); don't use "download."
+instant message, IM	,instant message,im,instant messaging,	I.md	clarify	Spell out on first mention; don't use as a verb except in mobile UI. Use "send an instant message" or "send an IM."
+instantiate	,instantiate,	I.md	subst	Use "create an instance of" instead of "instantiate."
+insure, assure, ensure	,insure,assure,ensure,	I.md	clarify	Use "ensure" for make sure, "insure" for insurance, "assure" for state positively.
+intelligence, intelligent technology	,intelligence,intelligent technology,	I.md	clarify	See AI and bot term collection.
+interface	,interface,	I.md	clarify	Use only as a noun; don't use as a verb. Use "interact" or "communicate" instead.
+Internet Connection Sharing	,internet connection sharing,	I.md	format	Always capitalize and spell out; don't abbreviate to ICS.
+Internet Explorer	,internet explorer,	I.md	format	Always capitalize and spell out; don't abbreviate.
+Internet of Things (IoT)	,internet of things,iot,	I.md	format	Note capitalization. Spell out on first mention; use "the" with spelled-out form but not the acronym.
+internet service provider (ISP)	,internet service provider,isp,	I.md	format	Spell out on first mention; lowercase the spelled-out term.
+internet, intranet, extranet	,internet,intranet,extranet,	I.md	format	Don't capitalize internet, intranet, or extranet.
+invalid, not valid	,invalid,not valid,	I.md	clarify	Both are OK; prefer "not valid" for better machine translation. Try to use more specific terms.
+invite	,invite,	I.md	clarify	OK to use as a noun or verb for requesting virtual participation.
+invoke	,invoke,	I.md	conditional	Don't use for general audiences; OK for technical audiences to refer to a function or process.
+IP address	,ip address,	I.md	format	Don't spell out.
+issue	,issue,	I.md	prohibit	Don't use as a verb; don't use as a synonym for "problem."
+IT pro, IT professional	,it pro,it professional,	I.md	subst	Use "IT pro" not "IT professional." Don't spell out "information technology."
+italic	,italic,italics,italicized,	I.md	format	Use only as an adjective; don't use "italics" or "italicized."
+its vs. it's	,its vs. it's,its,it's,	I.md	clarify	"Its" is possessive; "it's" is a contraction of "it is" or "it has."
+Java, JScript, JavaScript	,java,jscript,javascript,	J.md	clarify	Use "Java" for Sun's language, "JScript" for Microsoft's ECMAScript, "JavaScript" for Oracle's web language.
+join	,join,	J.md	clarify	Don't use to mean "embed"; in databases, use only for relationships between fields in different tables.
+joystick	,joystick,	J.md	clarify	See Computer and device term collection.
+jump	,jump,	J.md	prohibit	Don't use as a noun for cross-references or links; don't use as a verb for following links. Use "go to."
+justify, justified	,justify,justified,left-justified,right-justified,	J.md	clarify	Don't use as a synonym for "aligned." Use "left-aligned" or "right-aligned," not "left-justified" or "right-justified."
+Kerberos protocol	,kerberos protocol,kerberos,	K.md	format	Always use "Kerberos" as an adjective (Kerberos protocol), not as a standalone noun.
+key combination	,key combination,	K.md	clarify	See Keys and keyboard shortcuts term collection.
+key performance indicator (KPI)	,key performance indicator,kpi,	K.md	format	Spell out on first mention with abbreviation in parentheses; lowercase the spelled-out term.
+key result (KR)	,key result,kr,	K.md	format	Spell out on first mention with abbreviation in parentheses; lowercase the spelled-out term.
+key sequence	,key sequence,	K.md	clarify	See Keys and keyboard shortcuts term collection.
+keyboard shortcut	,keyboard shortcut,	K.md	clarify	See Keys and keyboard shortcuts term collection.
+keypad	,keypad,	K.md	clarify	See Keys and keyboard shortcuts term collection.
+keypress, keystroke	,keypress,keystroke,	K.md	clarify	See Keys and keyboard shortcuts term collection.
+kilobit, Kbit	,kilobit,kbit,	K.md	clarify	See Bits and bytes term collection.
+kilobits per second, Kbps	,kilobits per second,kbps,	K.md	clarify	See Bits and bytes term collection.
+kilobyte, KB, K, K byte, Kbyte	,kilobyte,kb,k byte,kbyte,	K.md	clarify	See Bits and bytes term collection.
+kilobytes per second, KBps	,kilobytes per second,kbps,	K.md	clarify	See Bits and bytes term collection.
+kilohertz, kHz	,kilohertz,khz,	K.md	clarify	See Units of measure term collection.
+knowledge base, Knowledge Base	,knowledge base,	K.md	format	Title-case for Microsoft Knowledge Base; lowercase for generic references.
+labeled, labeling	,labeled,labeling,labelled,labelling,	L.md	format	Use one l, not two.
+laptop	,laptop,	L.md	clarify	See Computer and device term collection.
+later	,later,below,	L.md	clarify	Use "later" instead of "below" in cross-references; OK to use "or later" for software versions.
+launch	,launch,	L.md	subst	Don't use to mean opening an app or form. Use "open" instead.
+lay out, laid out, layout	,lay out,laid out,layout,	L.md	format	"Lay out" as a verb, "laid out" as past tense, "layout" as a noun for the result.
+leading	,leading,	L.md	clarify	Use instead of "preceding" or "beginning" in phrases like "leading slashes" or "leading spaces."
+leave	,leave,	L.md	subst	Don't use to refer to closing an app or program. Use "close" instead.
+left align, left-aligned	,left align,left-aligned,	L.md	format	Always hyphenate "left-aligned." Don't use "left-justified."
+left justify, left-justified	,left justify,left-justified,	L.md	subst	Don't use. Use "left-aligned" instead.
+left mouse button	,left mouse button,	L.md	clarify	See Mouse and mouse interaction term collection.
+left, leftmost, left-hand	,left,leftmost,left-hand,	L.md	format	Don't use "left" alone as a directional term; use "upper left," "lower left," etc. Don't use "left-hand."
+legacy	,legacy,	L.md	subst	Don't use for previous product versions. Use "previous," "former," or "earlier" instead.
+legal	,legal,	L.md	clarify	Use only for matters of law; don't use to mean "valid."
+less vs. fewer vs. under	,less,fewer,under,	L.md	clarify	Use "less" for mass amounts, "fewer" for countable items; don't use "under" for quantities.
+let, lets	,let,lets,allows,enables,	L.md	subst	Don't use "lets," "allows," or "enables" for what Microsoft makes possible; focus on the customer.
+leverage	,leverage,	L.md	subst	Don't use as a verb. Use "take advantage of" or "use" instead.
+license terms	,license terms,	L.md	clarify	See Microsoft Software License Terms.
+line	,line,	L.md	subst	Don't use for a series of related Microsoft products or services. Use "family" instead.
+line of business, line-of-business	,line of business,line-of-business,lob,	L.md	format	Lowercase. Don't hyphenate as noun; always hyphenate as adjective. Don't abbreviate as LOB.
+link	,link,	L.md	clarify	See hyperlink.
+list box	,list box,listbox,	L.md	format	Two words. Refer to a list box by its label and "list," not "list box."
+load	,load,	L.md	conditional	Don't use as synonym for start, install, run, set up, or download. OK for technical use of loading into RAM.
+lock	,lock,	L.md	clarify	See Security term collection.
+lock up	,lock up,lockup,	L.md	subst	Don't use for hardware failure or unresponsive programs. Use "fail" or "stop responding."
+log on, log off	,log on,log off,log in,login,log into,logon,log onto,log out,logout,	L.md	subst	Don't use any log on/off variants. Use "sign in" or "sign out" instead.
+low-resolution	,low-resolution,lo-res,	L.md	format	Always hyphenate. Don't abbreviate as "lo-res."
+lower	,lower,	L.md	subst	Don't use to indicate product version numbers. Use "earlier" instead.
+lower left, lower-left, lower right, lower-right	,lower left,lower-left,lower right,lower-right,bottom left,bottom right,	L.md	format	Hyphenate as adjectives. Use instead of "bottom left" and "bottom right."
+lowercase	,lowercase,lowercased,	L.md	format	One word. Don't use "lowercased." Don't use as a verb.

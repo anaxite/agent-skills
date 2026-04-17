@@ -1,0 +1,128 @@
+canonical	match_variants	file	type	thumbnail
+24/7	,24/7,	NUMBERS-SYMBOLS.md	clarify	See Date and time term collection.
+2D, two-dimensional	,2d,two-dimensional,	NUMBERS-SYMBOLS.md	format	Spell out on first mention if unfamiliar; use "2D" after. Always hyphenate "two-dimensional."
+3D, three-dimensional	,3d,three-dimensional,	NUMBERS-SYMBOLS.md	format	Use "3D" most of the time. Spell out on first mention if unfamiliar. Always hyphenate.
+8.5" x 11" paper	,8.5" x 11" paper,	NUMBERS-SYMBOLS.md	format	Use this exact form with straight quotes for inches and multiplication sign, not letter x.
+@mentions	,@mentions,	NUMBERS-SYMBOLS.md	clarify	Feature using @ plus a person's name to draw attention in messages, comments, or calendar items.
+tab	,tab,	T.md	clarify	Don't use as a verb; as a noun, use only for ribbon, webpage, or dialog box tabs.
+table of contents	,table of contents,	T.md	subst	Use "Contents" as the heading, not "Table of contents."
+tablet	,tablet,	T.md	clarify	See Computer and device term collection.
+tap, double-tap, tap and hold	,tap,double-tap,tap and hold,	T.md	clarify	See Touch and pen interaction term collection.
+target drive, target file	,target drive,target file,	T.md	subst	Use "destination drive" or "destination file," not "target drive" or "target file."
+taskbar	,taskbar,	T.md	format	One word.
+terabyte, TB	,terabyte,tb,	T.md	clarify	See Bits and bytes term collection.
+terminate	,terminate,	T.md	conditional	Don't use as a synonym for close or exit; OK in technical content like "terminate a process."
+text box	,text box,field,entry field,	T.md	subst	Use "box," not "field" or "entry field"; OK to use "text box" in developer content about UI.
+text, text message	,text,text message,sms,mms,	T.md	subst	Use "text" or "text message," not "SMS" or "MMS," for US audiences.
+thanks, thank you	,thanks,thank you,	T.md	clarify	Use "thanks" not "thank you" unless tone is formal; don't use unnecessarily.
+that vs. which	,that,which,that vs. which,	T.md	clarify	Use "that" for essential clauses (no comma); use "which" for nonessential clauses (with comma).
+thousand, K	,thousand,k,	T.md	clarify	See Numbers.
+tile, Live Tile	,tile,live tile,	T.md	format	Lowercase "tile" in general use; capitalize "Live Tile" for the feature name.
+time stamp	,time stamp,timestamp,	T.md	format	Two words.
+timeout, time out	,timeout,time out,	T.md	format	One word as noun/adjective; two words ("time out") as a verb phrase.
+to-do	,to-do,todo,	T.md	format	Always hyphenate as an adjective; don't use as a noun or capitalize.
+toast	,toast,	T.md	subst	Use "notification," not "toast," for app or OS pop-up notifications.
+toggle	,toggle,	T.md	clarify	Don't use as a verb; use "switch," "turn on," or "turn off" instead. OK as noun or adjective.
+tone	,tone,	T.md	subst	Don't use for beeping sounds; use "beep" instead. OK for other sound contexts like "dial tone."
+tool	,tool,utility,	T.md	subst	Use "tool," not "utility," to describe a feature that helps customers accomplish tasks.
+toolkit	,toolkit,	T.md	format	One word.
+top left, top right	,top left,top right,top-left,top-right,	T.md	subst	Don't use; use "upper left" and "upper right" instead.
+top-level folder	,top-level folder,root directory,	T.md	conditional	Use "top-level folder" for general audiences; use "root directory" for developers.
+touch-sensitive	,touch-sensitive,	T.md	format	Always hyphenate.
+touchpad	,touchpad,	T.md	clarify	See Computer and device term collection.
+touchscreen	,touchscreen,	T.md	clarify	See Computer and device term collection.
+toward	,toward,towards,	T.md	subst	Use "toward," not "towards."
+trackball	,trackball,	T.md	clarify	See Computer and device term collection.
+trailing	,trailing,following,	T.md	subst	Use "trailing" instead of "following" for periods, slashes, and spaces at end of strings.
+trojan horse, trojan	,trojan horse,trojan,	T.md	clarify	See Security term collection.
+turn on, turn off	,turn on,turn off,power on,power off,enable,disable,switch on,switch off,	T.md	subst	Use "turn on/turn off," not "power on/off," "enable/disable," or "switch on/off."
+turnkey	,turnkey,	T.md	format	One word.
+type	,type,	T.md	clarify	See Describing interactions with UI.
+UK	,uk,	U.md	clarify	Avoid as abbreviation for United Kingdom unless space is limited; not a synonym for Great Britain or England.
+Ultrabook	,ultrabook,	U.md	clarify	Use only to differentiate the Intel device from other thin and light laptops.
+un-	,un-,	U.md	format	Don't hyphenate words beginning with un- unless needed to avoid confusion or before a proper noun.
+unavailable	,unavailable,disabled,grayed,	U.md	subst	Use "not available" or "isn't available," not "unavailable," "disabled," or "grayed" for UI states.
+uncheck, unmark, unselect	,uncheck,unmark,unselect,	U.md	subst	Don't use; use "clear" instead to refer to clearing a checkbox.
+undelete	,undelete,	U.md	prohibit	Don't use. See "restore."
+underline vs. underscore	,underline,underscore,underline vs. underscore,	U.md	clarify	Use "underline" for text formatting; use "underscore" for the _ character.
+undo	,undo,	U.md	clarify	OK as a verb for the Undo command; don't use as a noun.
+uninstall	,uninstall,	U.md	clarify	Use as a verb for removing apps, programs, and drivers; don't use as a noun.
+unregister	,unregister,	U.md	conditional	Don't use for general audiences; OK in developer content.
+unwanted software	,unwanted software,	U.md	clarify	See Security term collection.
+upgrade	,upgrade,	U.md	clarify	Use for replacing a product version with a newer one; don't use as a synonym for "update."
+upload	,upload,	U.md	clarify	Use as a verb with both a subject (what to upload) and an object (where to upload it).
+UPnP	,upnp,universal plug and play,	U.md	format	Don't spell out as Universal Plug and Play; use as an adjective with a noun, never alone.
+upper left, upper right	,upper left,upper right,upper-left,upper-right,top left,top right,	U.md	subst	Hyphenate as adjectives; use instead of "top left" and "top right."
+uppercase	,uppercase,uppercased,	U.md	format	One word; prefer "capital letters" in most contexts. Don't use as a verb.
+upsize	,upsize,	U.md	subst	Don't use; use "scale up" instead.
+upward	,upward,upwards,	U.md	subst	Use "upward," not "upwards."
+URI	,uri,uniform resource identifier,	U.md	conditional	Use "resource ID" for general audiences; OK to use "URI" for technical audiences.
+URL	,url,uniform resource locator,	U.md	conditional	Use "address" for general audiences; OK to use "URL" for technical audiences.
+US	,us,usa,u.s.,u.s.a.,	U.md	format	Use "US" as adjective or when space is limited; spell out "United States" as noun. Don't use USA or U.S.
+usable	,usable,useable,	U.md	subst	Use "usable," not "useable."
+USB	,usb,	U.md	clarify	See Computer and device term collection.
+use terms	,use terms,	U.md	subst	Don't use to mean "license terms."
+user rights	,user rights,privilege,	U.md	clarify	Use only for Windows security policies; don't use "privilege" as a synonym.
+user, end user	,user,end user,end-user,	U.md	subst	Don't use "end user." Avoid "user" when possible; prefer "customer," "person," or "you."
+using, by using, with	,using,by using,with,	U.md	clarify	Use "by using" or "that use" in instructions to eliminate ambiguity.
+utility	,utility,	U.md	prohibit	Don't use. See "tool."
+value axis	,value axis,	V.md	format	Lowercase, don't hyphenate. Refer to as "value (y) axis" on first mention, then "y-axis."
+versus, vs.	,versus,vs.,	V.md	format	Use "vs." (lowercase) in headings; spell out "versus" in body text.
+video call, videoconference	,video call,videoconference,	V.md	subst	Use "video call," not "videoconference." OK to use "call" or "meeting" generically.
+video card	,video card,video adapter,display adapter,graphics adapter,graphics card,graphics board,	V.md	subst	Use "video card," not "video adapter," "graphics card," "graphics board," or similar.
+video display	,video display,	V.md	prohibit	Don't use. See Computer and device term collection.
+video driver	,video driver,display driver,graphics driver,	V.md	subst	Use "video driver," not "display driver" or "graphics driver."
+video game, video-game	,video game,video-game,	V.md	format	Two words as a noun; hyphenate as an adjective.
+virtual	,virtual,	V.md	conditional	Use only for things that aren't physical (e.g., virtual machine). Don't use for general audiences.
+virtual agent	,virtual agent,	V.md	clarify	See AI and bot term collection.
+virtualize	,virtualize,	V.md	conditional	Don't use for general audiences; OK sparingly in technical content. Not a synonym for "simulate."
+visit	,visit,	V.md	subst	Don't use for websites; use "go to" instead.
+voice user interface (VUI)	,voice user interface,vui,	V.md	clarify	See AI and bot term collection.
+voice-activated device	,voice-activated device,	V.md	clarify	See AI and bot term collection.
+voicemail	,voicemail,v-mail,vmail,	V.md	format	One word. Don't abbreviate as "v-mail" or "vmail." Don't use as a verb.
+vulnerability	,vulnerability,	V.md	clarify	See Security term collection.
+W3C	,w3c,	W.md	format	Don't spell out.
+want	,want,wish,desire,	W.md	subst	Use "want," not "wish" or "desire," when customer has a choice; use "need" for requirements.
+we	,we,	W.md	clarify	Avoid making Microsoft the subject; focus on the customer. OK for "we recommend" if needed.
+wearable, wearable device	,wearable,wearable device,	W.md	clarify	See Computer and device term collection.
+web services	,web services,web service,	W.md	clarify	Use for protocols/formats like XML, SOAP, WSDL; don't use generically for online apps.
+web, World Wide Web, WWW	,web,world wide web,www,webpage,website,	W.md	format	Lowercase "web" as modifier. Use "the web," not "World Wide Web." One word: webpage, website.
+wellbeing	,wellbeing,well-being,	W.md	format	One word, no hyphen. Don't use "well-being."
+where	,where,	W.md	clarify	Use to introduce a list defining variables or symbols in code or formulas.
+while	,while,although,whereas,	W.md	clarify	Use only for time; don't use as a synonym for "although" or "whereas."
+white hat hacker	,white hat hacker,	W.md	clarify	See Security term collection.
+white paper	,white paper,whitepaper,	W.md	format	Two words.
+white space	,white space,whitespace,	W.md	format	Two words.
+whitelist	,whitelist,	W.md	subst	Never use "whitelist." Use "allow list" instead; "safe senders list" for specific usage.
+who vs. that	,who,that,who vs. that,	W.md	clarify	Use "who," not "that," to introduce clauses referring to people.
+Wi-Fi	,wi-fi,wifi,	W.md	format	Capitalize and hyphenate. Don't use "WiFi," "wifi," or "Wifi."
+wildcard character	,wildcard character,wildcard,	W.md	format	Use "wildcard character," not just "wildcard." One word for "wildcard."
+window	,window,	W.md	clarify	Don't use as a verb.
+Windows 10, Windows 11	,windows 10,windows 11,microsoft windows,	W.md	format	Always use the full name; don't precede with "Microsoft."
+Windows Explorer	,windows explorer,	W.md	subst	Don't use. Use "File Explorer" instead.
+Windows, Windows-based	,windows,windows-based,	W.md	format	Use "Windows" as a modifier; don't use "Windows-based."
+wireframe	,wireframe,	W.md	format	One word.
+wireless	,wireless,	W.md	clarify	Avoid discussing wireless technology with general users except for network connections.
+wizard	,wizard,	W.md	conditional	Don't use unless it appears in the UI; OK in technical content about developing wizards.
+word processing, word-processing	,word processing,word-processing,word process,	W.md	format	Two words as noun; hyphenate as adjective. Don't use as a verb.
+wordwrap, wordwrapping	,wordwrap,wordwrapping,word wrap,	W.md	prohibit	Don't use.
+work area, workspace	,work area,workspace,	W.md	format	"Work area" is two words; "workspace" is one word. Use "workspace" for in-window UI areas.
+work style	,work style,workstyle,	W.md	format	Two words.
+workgroup	,workgroup,	W.md	format	One word.
+working memory	,working memory,	W.md	subst	Don't use; use "available memory" instead.
+workstation	,workstation,	W.md	format	One word. Avoid except in client/server discussions.
+workstream	,workstream,work stream,work-stream,	W.md	format	One word, no hyphen.
+worldwide vs. international	,worldwide,international,global,	W.md	clarify	Use "worldwide" for all regions; don't use "international" to mean worldwide or "outside the US."
+write-only	,write-only,	W.md	format	Always hyphenate.
+write-protect, write-protected	,write-protect,write-protected,	W.md	format	Always hyphenate. Use "write-protect" as verb and "write-protected" as adjective.
+x	,x,	X.md	clarify	Use lowercase italic x as a placeholder variable; use n for generic unspecified numbers.
+x-axis	,x-axis,	X.md	format	Lowercase, hyphenate. Use "category (x) axis" on first mention, then "x-axis."
+x-coordinate	,x-coordinate,	X.md	format	Lowercase, hyphenate.
+XON/XOFF	,xon/xoff,	X.md	format	Note capitalization and slash.
+y-axis	,y-axis,	Y.md	format	Lowercase, hyphenate. Use "value (y) axis" on first mention, then "y-axis."
+y-coordinate	,y-coordinate,	Y.md	format	Lowercase, hyphenate.
+z-	,z-,	Z.md	format	Hyphenate all words with z as a separate letter prefix (z-axis, z-coordinate, z-order, z-test).
+z-axis	,z-axis,	Z.md	format	Lowercase, hyphenate. Use "value (z) axis" on first mention in 3D charts, then "z-axis."
+zero, zeros	,zero,zeros,zeroes,	Z.md	format	Use "zeros," not "zeroes," as the plural. Use plural unit with 0 (e.g., "0 megabytes").
+ZIP Code	,zip code,postal code,	Z.md	conditional	OK for US audiences; otherwise use "postal code." Capitalize as "ZIP Code."
+zoom in, zoom out	,zoom in,zoom out,dezoom,unzoom,	Z.md	subst	Use "zoom in" and "zoom out"; don't use "dezoom" or "unzoom."

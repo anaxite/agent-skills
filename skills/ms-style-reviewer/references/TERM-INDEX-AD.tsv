@@ -1,0 +1,228 @@
+canonical	match_variants	file	type	thumbnail
+-core	,-core,	C.md	format	Hyphenate adjectives formed by adding -core (e.g., single-core, dual-core, multi-core).
+Abort, Abortion	,abort,abortion,	A.md	conditional	Never use abortion. Avoid abort for general audiences; OK in technical/API contexts. Use end, close, stop, or cancel.
+Above	,above,the above,above section,code above,	A.md	subst	Don't use to mean earlier. Use previous, preceding, or earlier instead.
+Access	,access,	A.md	conditional	OK as verb meaning obtain access to. Don't use to mean start, create, or open.
+Access Key	,access key,	A.md	clarify	See Keys and keyboard shortcuts term collection.
+Accessible	,accessible,accessibility,	A.md	clarify	Reserve for ease of use for people with disabilities. Don't use as synonym for simple.
+Achievement	,achievement,	A.md	clarify	Use title-style cap for achievement names. Lowercase the word achievement after the name.
+Actionable	,actionable,	A.md	prohibit	Avoid. Rephrase with specific verbs like act on or solve.
+Active Player, Active User	,active player,active user,	A.md	subst	Use active player, not active user, for motion sensor or camera tracking.
+Adapter	,adapter,	A.md	clarify	See Computer and device term collection.
+Add	,add,	A.md	clarify	Use for installing add-ins/add-ons. Don't use for apps or programs; use install.
+Add-In, Add-On	,add-in,add-on,addin,addon,	A.md	clarify	Add-in = software extending a program. Add-on = hardware device. Use as modifiers for general audiences.
+Adjacent Selection	,adjacent selection,contiguous selection,	A.md	conditional	Prefer multiple selection. OK only to emphasize adjacency. Don't use contiguous selection.
+Administer	,administer,administrate,	A.md	subst	Use administer, not administrate.
+administrator, admin	,administrator,admin,system administrator,	A.md	format	Don't capitalize except for the Administrator account type or Administrators group.
+Afterward	,afterward,afterwards,	A.md	subst	Use afterward, not afterwards.
+Against	,against,	A.md	conditional	Don't use for running/building on a platform; use on. OK for technical: queries against a database.
+AI (Artificial Intelligence)	,ai,artificial intelligence,	A.md	clarify	See AI and bot term collection.
+Alarm	,alarm,	A.md	conditional	Don't use as general sound reference; use beep. OK in specific descriptions like low-battery alarm.
+Alert	,alert,	A.md	conditional	OK for technical audiences for automated messages. For general users, use notification instead.
+Alias	,alias,	A.md	prohibit	Don't use to mean email address, account name, or distribution group name.
+Allow, Allows	,allow,allows,enables,lets,	A.md	conditional	Don't use allows/enables/lets for what Microsoft makes possible. OK for security features.
+alphabetical	,alphabetical,alphabetic,	A.md	subst	Use alphabetical, not alphabetic.
+Alphanumeric	,alphanumeric,alphanumerical,	A.md	format	Use alphanumeric, not alphanumerical.
+AM, PM	,am,pm,	A.md	clarify	See Date and time term collection.
+Ampersand (&)	,ampersand,&,	A.md	conditional	Don't use & in place of and in text/headings. OK in technical content about HTML/programming.
+And So On	,and so on,etc,	A.md	prohibit	Don't use. Be specific, or use such as/like with examples. Don't end such as phrases with it.
+And/Or	,and/or,	A.md	prohibit	Avoid unless it prevents complex wording. Usually or suffices.
+Anti-malware	,anti-malware,antimalware,	A.md	format	Hyphenate. Use only as adjective.
+Antialiasing	,antialiasing,anti-aliasing,	A.md	format	Don't hyphenate. Don't capitalize unless at start of sentence.
+Antispyware	,antispyware,anti-spyware,	A.md	format	Don't hyphenate. Use only as adjective.
+Antivirus	,antivirus,anti-virus,	A.md	format	Don't hyphenate. Use only as adjective.
+App, Application	,app,application,application program,	A.md	conditional	Use app, not application, for general audiences. OK for technical audiences. Never application program.
+Appendix, Appendices	,appendix,appendices,appendixes,	A.md	format	Use appendices as plural, not appendixes.
+Applet	,applet,	A.md	clarify	HTML-based program a browser downloads temporarily. Most associated with Java.
+Application Developer, App Developer	,application developer,app developer,applications developer,	A.md	prohibit	Don't use. Use software developer, web developer, developer, or programmer.
+Application File, App File	,application file,app file,	A.md	prohibit	Don't use. Use specific file name or program file.
+Application Icon, App Icon	,application icon,app icon,	A.md	conditional	Don't use for specific product icons; use product name. OK for developers discussing programming elements.
+Application Window, App Window	,application window,app window,	A.md	conditional	Don't use for specific product windows; use product name. OK for developers discussing programming elements.
+Argument vs. Parameter	,argument,parameter,argument vs. parameter,	A.md	clarify	Often interchangeable. Use argument for general audiences. Differentiate only for technical content.
+Arrow	,arrow,	A.md	clarify	OK to identify arrow next to a list box label. Don't confuse with arrow keys (keyboard).
+Arrow Keys	,arrow keys,	A.md	clarify	See Keys and keyboard shortcuts term collection.
+As Well As	,as well as,	A.md	prohibit	Don't use as synonym for and.
+Ask	,ask,	A.md	prohibit	Don't use as noun. Use request, task, or another suitable word.
+Assembly Language	,assembly language,assembler,machine language,	A.md	subst	Use assembly language, not assembler or machine language. Hyphenate as adjective.
+Assistive	,assistive,	A.md	clarify	Use for devices/technologies helping people with disabilities. Don't use in general contexts.
+Assure, Ensure, Insure	,assure,ensure,insure,	A.md	clarify	Ensure = make sure. Insure = provide insurance. Assure = state positively.
+asterisk (*)	,asterisk,*,	A.md	clarify	See Keys and keyboard shortcuts term collection.
+At Sign (@)	,at sign,@,	A.md	clarify	See Keys and keyboard shortcuts term collection.
+Attribute	,attribute,	A.md	prohibit	Don't use as synonym for property.
+Audiobook	,audiobook,audio book,	A.md	format	One word.
+Author	,author,	A.md	conditional	Don't use as verb meaning to make something. Use write, create, design. OK for authoring tools in technical content.
+Auto-	,auto-,auto,	A.md	format	Generally don't hyphenate words beginning with auto-. Don't create new auto- words.
+Avg	,avg,average,	A.md	format	OK to abbreviate without period in UI. Otherwise spell out average.
+Back End, Back-End	,back end,back-end,backend,	B.md	format	Two words as a noun, hyphenate as an adjective. Prefer a more specific term like server or database.
+Back Up, Backup	,back up,backup,	B.md	format	Two words as a verb, one word as an adjective or noun.
+Backbone	,backbone,	B.md	conditional	Don't use for a general audience; OK without definition for a technical audience.
+Backlight	,backlight,	B.md	format	One word.
+Backspace	,backspace,	B.md	format	One word. OK to use as a verb.
+Backtab	,backtab,	B.md	prohibit	Don't use. Instruct the customer to use Shift+Tab instead.
+Badge	,badge,	B.md	clarify	Lowercase the word "badge." Use title-style capitalization for badge names.
+Baseline	,baseline,	B.md	format	One word. Use to refer to an established standard.
+Baud	,baud,	B.md	clarify	See Units of measure term collection.
+Beep	,beep,	B.md	subst	Use "beep" instead of "alarm" or "tone" for a beeping sound.
+Below	,below,	B.md	prohibit	Don't use to mean "later" or as an adjective before or after a noun. Use a link or "the following."
+Beta	,beta,	B.md	clarify	See preview.
+Bi-	,bi-,	B.md	format	Don't hyphenate words beginning with bi- unless needed to avoid confusion.
+big data	,big data,	B.md	format	Don't capitalize.
+Big-Endian, Little-Endian	,big-endian,little-endian,	B.md	conditional	OK in content for a technical audience.
+Billion, B	,billion,b,	B.md	clarify	See Numbers.
+Bio	,bio,	B.md	clarify	OK as an abbreviation for biography.
+Bitmap	,bitmap,	B.md	format	One word. Don't use generically for any graphic; use illustration, figure, or picture.
+Bits Per Second	,bits per second,	B.md	clarify	See Bits and bytes term collection.
+Black Box	,black box,	B.md	prohibit	Don't use.
+Black Hat Hacker	,black hat hacker,	B.md	clarify	See Security term collection.
+blacklist	,blacklist,block list,blocked senders list,	B.md	subst	Use "block list" instead of "blacklist." For specificity, use "blocked senders list."
+blade	,blade,	B.md	subst	Don't use. Use "pane" instead.
+blank	,blank,	B.md	subst	Don't use as a verb to mean removing cell contents. Use "clear" instead.
+blog, blogger, blogroll, weblog	,blog,blogger,blogroll,weblog,	B.md	subst	Use "blog" as noun or verb. Don't use "weblog."
+Blu-ray Disc	,blu-ray disc,bd,	B.md	format	Use this spelling and capitalization. OK to abbreviate to BD after first mention.
+blue screen, bluescreen	,blue screen,bluescreen,	B.md	subst	Don't use as noun/verb for an unresponsive OS. Use "stop" (verb) or "stop error" (noun).
+Bluetooth	,bluetooth,	B.md	format	Always capitalize. Use registered trademark symbol (®) on first mention.
+board	,board,	B.md	subst	Don't use for hardware connections. Use "card" instead (e.g., video card).
+bold	,bold,bolded,boldface,boldfaced,	B.md	format	Use only as an adjective. Don't use "bolded," "boldface," or "boldfaced."
+bookmark	,bookmark,	B.md	subst	Use "favorite," not "bookmark," to refer to a saved site or webpage.
+Boolean	,boolean,	B.md	format	Always capitalize.
+boot	,boot,	B.md	conditional	Don't use as a verb; use "turn on." OK as adjective for technical audiences but prefer "startup."
+bot	,bot,	B.md	clarify	See AI and bot term collection.
+bottom left, bottom right	,bottom left,bottom right,	B.md	subst	Don't use. Use "lower left" and "lower right" instead. Hyphenate as adjectives.
+bounding outline	,bounding outline,	B.md	clarify	Use to describe visible element surrounding selected items. Don't use "marquee" as a synonym.
+box	,box,	B.md	clarify	Use "box" instead of "field" for UI elements except checkboxes and list boxes. Don't use as synonym for hardware.
+bps	,bps,	B.md	clarify	See Bits and bytes term collection.
+breakpoint	,breakpoint,	B.md	format	One word.
+broadcast	,broadcast,broadcasted,	B.md	format	Use "broadcast" not "broadcasted" as past tense. OK as adjective, noun, or verb.
+browse	,browse,	B.md	clarify	Use for manually scanning sites or files. Use "find" or "search" for search features.
+bug fix	,bug fix,	B.md	subst	Don't use. Use "software update" instead.
+build	,build,	B.md	conditional	Don't use for general audiences to mean creating documents. OK for technical audiences for compiling code.
+bulk	,bulk,	B.md	conditional	Avoid as adverb for general audiences. For technical audiences, try "in bulk." Don't hyphenate.
+button	,button,command button,option button,action button,push button,	B.md	clarify	Refer to a button by its label. Use "button" only for clarity. Don't use "command button" or "option button."
+by (publisher or company name)	,by,	B.md	format	Avoid "by" in publisher lines. If you must include it, lowercase it.
+C, C++, C\#	,c,c++,c#,	C.md	clarify	OK as adjectives. Don't form hyphenated modifiers like "C-based" or "C-callable."
+cable	,cable,	C.md	format	Don't use as a verb.
+cabling	,cabling,	C.md	clarify	Don't use as synonym for "cable" or "cables." OK for a combination of cables, connectors, and terminators.
+cache vs. disk cache	,cache,disk cache,file cache,	C.md	clarify	Use "cache" for memory subsystem, "disk cache" for RAM portion. Don't use "cache" or "file cache" for temp internet files.
+calendar	,calendar,	C.md	format	Don't use as a verb. Use "schedule," "list," or another verb.
+call back, callback	,call back,callback,	C.md	format	Two words as a verb, one word as adjective or noun. Don't use "callback" to mean "callback function."
+call out, callout	,call out,callout,	C.md	format	Two words as a verb, one word as adjective or noun.
+can, may	,can,may,could,	C.md	clarify	Use "can" for ability, "might" for possibility. Don't use "may." Don't substitute "could" unless referring to the past.
+cancel, canceled, canceling, cancellation	,cancel,canceled,canceling,cancellation,deselect,unmark,	C.md	format	One "l" in canceled/canceling, two in cancellation. Use "cancel the selection" not "deselect."
+carry out vs. run	,carry out,run,	C.md	subst	Use "run," not "carry out," for commands, macros, and programs.
+Cascading Style Sheets (CSS)	,cascading style sheets,css,	C.md	format	Capitalize the technique name. Lowercase refs to individual style sheets. Don't use "CSS" for a specific sheet.
+catalog	,catalog,catalogue,	C.md	subst	Use "catalog" instead of "catalogue."
+category axis	,category axis,	C.md	format	Lowercase, don't hyphenate. Refer to "category (x) axis" first, then "x-axis."
+cell phone, cellular phone	,cell phone,cellular phone,	C.md	prohibit	Don't use. See Computer and device term collection.
+cellular	,cellular,	C.md	conditional	Don't use "cellular phone" or "cell phone." OK in context of cellular data network or connection.
+center on	,center on,center around,	C.md	subst	Use "center on" instead of "center around."
+character set	,character set,	C.md	clarify	Don't use as a synonym for "code page." A character set appears on a code page.
+chart	,chart,graph,	C.md	subst	Don't use as a verb for entering data; use "plot." Use "chart" not "graph" for graphic data representations.
+chat	,chat,	C.md	clarify	OK as adjective, noun, or verb for internet/intranet chat. Use "voice chat" or "video chat" to avoid ambiguity.
+chatbot	,chatbot,	C.md	clarify	See AI and bot term collection.
+check in	,check in,	C.md	clarify	OK as a verb phrase (e.g., check in code). Don't use as a noun.
+check, checkbox, check mark	,check,checkbox,check mark,check box,	C.md	format	Use "checkbox" not "check box." Use "select" and "clear" with checkboxes, not check/uncheck or mark/unmark.
+child folder	,child folder,	C.md	subst	Don't use. Use "subfolder," "subdirectory," "folder," or the folder name.
+choose	,choose,	C.md	clarify	See Describing interactions with UI.
+clear	,clear,	C.md	clarify	See Describing interactions with UI.
+click	,click,	C.md	conditional	Avoid; use device-neutral verbs like "select." OK when describing mouse actions specifically.
+clickstream	,clickstream,	C.md	conditional	One word. Don't use in content for a general audience.
+clickthrough	,clickthrough,	C.md	conditional	One word. Don't use in content for a general audience.
+client	,client,	C.md	subst	Don't use to refer to a person. Use "customer" instead. See Computer and device term collection.
+client side, client-side	,client side,client-side,	C.md	conditional	Don't use for general audience. OK for technical audience. Hyphenate as an adjective.
+client/server	,client/server,	C.md	format	Always use the slash. Capitalize both words if context requires it.
+clipboard	,clipboard,	C.md	clarify	Don't precede with "Windows." Material is moved or copied "to" the clipboard, not "onto" it.
+close	,close,	C.md	clarify	See Describing interactions with UI.
+Close button	,close button,	C.md	format	Capitalize "Close." Use bold for Close in instructions. OK to say "the Close button" for beginners.
+cloud	,cloud,	C.md	clarify	See Cloud-computing term collection.
+cloud platform	,cloud platform,	C.md	clarify	See Cloud-computing term collection.
+cloud services	,cloud services,	C.md	clarify	See Cloud-computing term collection.
+co-	,co-,	C.md	format	Don't hyphenate words beginning with co- (e.g., coauthor, coordinate) unless needed to avoid confusion.
+code page	,code page,	C.md	clarify	Don't use as a synonym for "character set." A character set appears on a code page.
+code point	,code point,	C.md	format	Two words.
+codec	,codec,	C.md	conditional	Don't spell out. Use only for technical audiences or when it appears in the UI.
+color map	,color map,	C.md	format	Two words when referring to the color lookup table in a video card.
+column format	,column format,columnar,columnlike,	C.md	subst	Use "column format" instead of "columnar" or "columnlike."
+combo box	,combo box,	C.md	conditional	Two words. Use only for technical audiences. For general audiences, refer to it as a "box" with its UI label.
+command	,command,menu item,choice,	C.md	clarify	Avoid talking about UI. Use "command" instead of "menu item," "choice," or "option" for menu items.
+command button	,command button,action button,push button,	C.md	conditional	Don't use for general audiences. Refer to buttons by label. OK in developer content about creating command buttons.
+command line, command-line	,command line,command-line,	C.md	format	Two words as a noun, hyphenate as adjective. Use "command-line program" for general audiences.
+command prompt	,command prompt,c prompt,command-line prompt,system prompt,	C.md	subst	Use instead of "C prompt," "command-line prompt," or "system prompt." Enter commands "at" a command prompt.
+community cloud	,community cloud,	C.md	clarify	See Cloud-computing term collection.
+company vs. organization	,company,organization,	C.md	clarify	Use the term that fits your audience. "Company" for businesses, "organization" for broader audiences.
+compile	,compile,	C.md	clarify	OK as an adjective or verb. Don't use as a noun.
+compute	,compute,	C.md	conditional	OK as verb for all audiences. OK as noun (compute hours) for technical audiences; use "computing time" for general.
+computer	,computer,	C.md	clarify	See Computer and device term collection.
+connect	,connect,	C.md	clarify	Use for attaching to a network. Don't use as synonym for "sign in" or "map."
+console	,console,	C.md	conditional	Use "console window"/"console application" only for technical audiences. Use "Command Prompt window" for general.
+context menu	,context menu,	C.md	conditional	Use only in developer content. Make clear it refers to the shortcut menu.
+context-sensitive	,context-sensitive,	C.md	format	Always hyphenate.
+contiguous selection	,contiguous selection,	C.md	subst	Don't use. Use "multiple selection" or "adjacent selection" instead.
+control	,control,	C.md	conditional	Don't use for UI elements in general audience content. OK for developer content and other contexts.
+Control Panel	,control panel,	C.md	format	No "the" before Control Panel. Use "control panel item" (lowercase) for individual panels. Don't use "applet."
+control-menu box	,control-menu box,	C.md	clarify	Avoid referring by name. Use the app name icon or title bar shortcut menu instead.
+controller	,controller,	C.md	clarify	See Computer and device term collection.
+conversation as a platform	,conversation as a platform,	C.md	clarify	See AI and bot term collection.
+conversational user interface (CUI)	,conversational user interface,cui,	C.md	clarify	See AI and bot term collection.
+corrupted	,corrupted,corrupt,	C.md	subst	Avoid. Use empathetic language to describe damaged files. Don't use "corrupt."
+country or region	,country or region,country/region,geography,geo,	C.md	format	Use "country or region" for lists that may include dependencies. Don't use "geography" or "geo" as synonyms.
+crash	,crash,	C.md	prohibit	Don't use. Use "fail" for hardware, "stop responding" for software.
+cut, cut-and-paste	,cut,cut-and-paste,cut-and-replace,	C.md	subst	Don't use "cut" as verb; use "delete" or "move." OK to use "cut-and-paste" only as an adjective.
+cyber-	,cyber-,	C.md	format	Don't hyphenate words beginning with cyber (e.g., cybersecurity, cyberspace, cyberattack).
+dark mode	,dark mode,	D.md	format	Lowercase, two words. A display setting using a darker background color.
+data binding	,data binding,	D.md	format	Two words.
+data record	,data record,	D.md	subst	Don't use. Use "record" instead.
+data, datum	,data,datum,	D.md	format	Use "data" as singular and plural with a singular verb. Don't use "datum."
+database	,database,	D.md	format	One word.
+datacenter	,datacenter,	D.md	format	One word.
+datagram	,datagram,	D.md	format	One word.
+datasheet	,datasheet,	D.md	format	One word.
+deaf or hard-of-hearing	,deaf or hard-of-hearing,	D.md	clarify	See Accessibility term collection.
+debug	,debug,	D.md	clarify	Use only for software development. Don't use as synonym for "troubleshoot."
+deceptive software	,deceptive software,	D.md	clarify	See Security term collection.
+decrement	,decrement,	D.md	conditional	Use only for technical audiences. As a verb, only for decreasing an integer by one. Don't use as synonym for "decrease."
+default	,default,	D.md	format	Don't use as a verb.
+defragment	,defragment,defrag,	D.md	format	Don't abbreviate to "defrag."
+deinstall	,deinstall,	D.md	subst	Don't use. Use "remove" instead. Exception: when referencing UI or API labels.
+delete	,delete,	D.md	clarify	Use for results of Delete or Cut commands. Don't use as synonym for "remove." Don't use "cut" or "erase" as synonyms.
+demilitarized zone (DMZ)	,demilitarized zone,dmz,	D.md	subst	Don't use. Use "perimeter network" instead.
+deprecated	,deprecated,	D.md	conditional	Avoid for technical audiences. Don't use for general audiences; use "obsolete" instead.
+depress, depressed	,depress,depressed,	D.md	clarify	See Keys and keyboard shortcuts term collection.
+deselect	,deselect,	D.md	subst	Don't use. Use "clear" for checkboxes and "cancel the selection" for other UI elements.
+desktop	,desktop,	D.md	clarify	Use for the Windows work area. OK to distinguish desktop app from web/mobile variants.
+destination	,destination,target,	D.md	clarify	Use a more precise term like "website" or "folder." Don't use "target" as a synonym.
+destination drive, destination file	,destination drive,destination file,target drive,target file,	D.md	clarify	Avoid. Use specific language. Don't use "target drive" or "target file."
+device	,device,	D.md	clarify	See Computer and device term collection.
+device driver, driver	,device driver,driver,	D.md	clarify	Use "device driver" only in DDK context. Refer to specific drivers (e.g., mouse driver). Define "driver" for general audiences.
+DevOps	,devops,	D.md	format	Note spelling and capitalization: DevOps.
+dial-up	,dial-up,	D.md	format	Always hyphenate. Use only as an adjective, not as a noun or verb. Use "dial" as the verb.
+dialog box, dialog, dialogue	,dialog box,dialog,dialogue,dialogue box,pop-up window,	D.md	subst	Use "dialog" not "dialog box," "dialogue box," or "pop-up window."
+different	,different,different from,different than,different to,	D.md	format	Use "different from" in most comparisons. Don't use "different to." Use "different than" only before a clause.
+dimmed	,dimmed,	D.md	subst	Don't use for unavailable commands. Use "not available." OK to use "appears dimmed" for appearance.
+direction keys	,direction keys,	D.md	clarify	See Keys and keyboard shortcuts term collection.
+directory	,directory,	D.md	conditional	Use "folder" most of the time. Use "directory" only for developer content matching API or file system structure.
+disable, disables (functionality)	,disable,disabled,	D.md	subst	Don't use for making commands inactive. Use "turn off," "make unavailable," or "block." OK for admin actions.
+disabled (person)	,disabled,	D.md	subst	Don't use to refer to people. Use "person with a disability" or a specific people-first term.
+disc	,disc,	D.md	clarify	See Computer and device term collection.
+disjoint selection	,disjoint selection,	D.md	conditional	Don't use except for technical audiences when in UI or API. Use "multiple selection" instead.
+disk	,disk,	D.md	clarify	See Computer and device term collection.
+disk space	,disk space,	D.md	subst	Avoid. Use "storage" or "storage space." Use "drive" instead of "disk" for partitions.
+display	,display,	D.md	clarify	See Computer and device term collection.
+display adapter, display driver	,display adapter,display driver,	D.md	subst	Don't use. Use "video card" and "video driver" instead.
+DNS	,dns,domain name system,domain name server,ddns,dynamic dns,	D.md	format	Spell out as "Domain Name System" not "Domain Name Server." Don't use "dynamic DNS" or "DDNS."
+document	,document,	D.md	clarify	Use for text files. Use specific terms like "workbook" or "presentation" when possible. Use "file" for general refs.
+domain	,domain,	D.md	clarify	Has different meanings in different contexts. Define on first use if necessary.
+dot-com	,dot-com,	D.md	prohibit	Don't use.
+dotted rectangle	,dotted rectangle,	D.md	clarify	Use only to describe appearance. Otherwise use "bounding outline," not "marquee."
+double buffering	,double buffering,double-buffering,	D.md	format	Two words as noun, hyphenate as adjective. Don't use as a verb.
+double-click, double-clicking	,double-click,double-clicking,	D.md	clarify	See Mouse and mouse interaction term collection.
+downgrade	,downgrade,	D.md	conditional	Use only if necessary for licensing/product context and only for audiences who understand the term.
+download	,download,	D.md	clarify	Use for intentional data transfer. Use "install" for apps/drivers. Describe what and where. Don't use for opening webpages.
+drag, drag and drop	,drag,drag and drop,drag-and-drop,click and drag,	D.md	format	Don't use "drag and drop" except as adjective. Use "move" or "drag." Don't use "click and drag."
+drill down, drill up, drill through	,drill down,drill up,drill through,drill-down,drill-up,drillthrough,	D.md	conditional	OK in data/report content. Two words as verb, hyphenate as adjective. "Drillthrough" is one word as noun/adjective.
+drive	,drive,	D.md	clarify	See Computer and device term collection.
+drive name	,drive name,drive specification,designator,designation,	D.md	subst	Use "drive name" instead of "drive specification," "designator," or "designation."
+drive resource	,drive resource,	D.md	clarify	Use to refer to a drive or part of a drive shared on a server.
+dropdown	,dropdown,drop-down,drop down,	D.md	format	OK as an adjective (dropdown list/menu). Avoid as a noun.
+DVD	,dvd,dvd disc,dvd-rom disc,	D.md	format	Don't spell out. Don't use "DVD disc" or similar redundant phrases. Use "DVD drive" not "DVD player."
+dynamic service capacity	,dynamic service capacity,	D.md	clarify	See Cloud-computing term collection.
+dynamic-link library (DLL)	,dynamic-link library,dll,dynalink,	D.md	format	Spell out on first mention, then use DLL. Use ".dll" (lowercase) for the extension. Don't use "dynalink."
