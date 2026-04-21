@@ -1,13 +1,12 @@
 ---
 name: three-way-review
 description: >
-  Perform a three-way review of one or more files, dispatching three independent subagents: one
+  Perform a three-way review of one or more files with text content, dispatching three independent subagents: one
   predisposed to find problems, one predisposed to find strengths, and one with no initial bias.
   Use when the user asks for a "three-way review", "tripartite review", "devil's advocate review",
-  "positive/negative/neutral review", or any review framing that involves multiple perspectives on
-  the same content. Also use when the user asks to review files from multiple angles, or says
-  something like "be both critical and generous" about a review. Requires a subagent-capable
-  environment; do not attempt in environments without subagent support.
+  "positive/negative/neutral review", or any review framing that explicitly involves multiple
+  perspectives on the same content. Requires a subagent-capable environment; do not attempt in
+  environments without subagent support. Do not use to review binary files.
 ---
 
 # Three-Way Review
@@ -20,6 +19,7 @@ perspective would miss.
 
 **This skill requires subagents.** If the environment does not support subagent dispatch,
 tell the user and stop.
+**This skill requires textual content.** Do not use this skill to review binary files.
 
 ---
 
@@ -44,8 +44,8 @@ Then assess relationships between files (see "Multi-file handling" below).
 - If total content across all files exceeds **200KB**, warn the user explicitly and ask
   whether they want to proceed. Explain that reviews may be incomplete or sampled.
 - If content is under 200KB but there are many files, use a temporary staging area
-  (`.agents_cache/review_staging/` or a project-approved temp location) to avoid passing
-  oversized context to subagents.
+  (e.g. a project-approved temp location, or "project memory" in environments that support memory)
+  to avoid passing oversized context to subagents.
 
 ---
 
@@ -62,7 +62,6 @@ If more than one file is provided:
    can factor it in.
 
 3. **If the relationship is unclear**, ask the user before dispatching subagents:
-
    > "Before I start, I want to confirm these files are meant to be reviewed together.
    > Can you describe how they relate?"
 
@@ -96,10 +95,12 @@ Dispatch all three subagents in parallel. Pass each one:
 - Their specific reviewer persona (described below — do **not** use these labels in output)
 
 Read `references/subagent-personas.md` for the detailed persona instructions to pass to
-each subagent.
+each subagent. Read `references/large-file-strategy.md` for instructions to pass to
+subagents when any individual file is large enough to risk context limits.
 
-Read `references/large-file-strategy.md` for instructions to pass to subagents when any
-individual file is large enough to risk context limits.
+**If either reference file is not accessible**, stop and tell the user: "The skill package
+appears to be incomplete — one or more required reference files are missing. Please
+reinstall the skill."
 
 ---
 
@@ -122,8 +123,8 @@ section should be the most substantive.
 
 ### File output mode
 
-Write a more comprehensive document to the requested path (or `.agents_cache/review.md`
-if no path was given). Include:
+Write a more comprehensive document to the requested path (or to a user/project-approved
+staging area if no path was given). Include:
 
 - Full review from each subagent (not summarized, agent-determined structure unless
   user specified one)
@@ -137,23 +138,9 @@ Then post a brief summary in chat and provide the file path.
 
 The synthesis is not a fourth review. It is a meta-view that:
 
-- Notes where the three reviews agree (amplify those points — they are robust)
+- Notes where the three reviews agree (amplify those points, they are robust)
 - Reconciles disagreements (explain the tension; recommend a direction)
 - Gives concrete, prioritized recommendations
 - Reflects any user-provided goals or guidelines in its framing
 
 The synthesis should be the most actionable part of the output.
-
----
-
-## Harness commands
-
-The skill activates on natural language requests. Recognized phrasings include:
-
-- "three-way review", "tripartite review", "triple review"
-- "review from multiple angles / perspectives"
-- "devil's advocate review"
-- "positive, negative, and neutral review"
-- "review [file(s)] with all three perspectives"
-
-No special syntax is required; these are triggers, not commands.

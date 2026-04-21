@@ -1,7 +1,7 @@
 # Large File Strategy
 
 Include this block in subagent instructions when any individual file is large enough to
-risk exhausting context (rough threshold: a single file over ~50KB, or total content
+risk exhausting context (rough threshold: a single file over ~100KB, or total content
 approaching 200KB).
 
 ---
@@ -40,7 +40,7 @@ If structural tools are not available or insufficient:
 
 ### Tier 3: Flag and skip (last resort)
 
-If neither tier 1 nor tier 2 is viable (e.g., the file is binary, inaccessible, or so
+If neither tier 1 nor tier 2 is viable (e.g., the file is inaccessible, or so
 large that even sampling is impractical):
 
 - Note the file in your review
